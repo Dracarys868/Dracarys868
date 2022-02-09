@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dracarys868
-- 👀 I’m interested in coding, gaming, sketch
-- 🌱 I’m currently learning computer science engineering 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Artificial intelligence, Python, WebDev, Gaming and Fitness
+- 🌱 I’m currently learning Computer Science from Lovely Professional University
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me --> ananya8154@gmail.com
 
 <!---
